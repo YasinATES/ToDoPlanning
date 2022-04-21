@@ -1,0 +1,17 @@
+C:\Projects\ToDoPlanning\ToDoPlanning.DataAccess\bin\Debug\net6.0\ToDoPlanning.DataAccess.deps.json
+C:\Projects\ToDoPlanning\ToDoPlanning.DataAccess\bin\Debug\net6.0\ToDoPlanning.DataAccess.dll
+C:\Projects\ToDoPlanning\ToDoPlanning.DataAccess\bin\Debug\net6.0\ToDoPlanning.DataAccess.pdb
+C:\Projects\ToDoPlanning\ToDoPlanning.DataAccess\bin\Debug\net6.0\ToDoPlanning.Entities.dll
+C:\Projects\ToDoPlanning\ToDoPlanning.DataAccess\bin\Debug\net6.0\ToDoPlanning.Entities.pdb
+C:\Projects\ToDoPlanning\ToDoPlanning.DataAccess\obj\Debug\net6.0\ToDoPlanning.DataAccess.csproj.AssemblyReference.cache
+C:\Projects\ToDoPlanning\ToDoPlanning.DataAccess\obj\Debug\net6.0\ToDoPlanning.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ToDoPlanning\ToDoPlanning.DataAccess\obj\Debug\net6.0\ToDoPlanning.DataAccess.AssemblyInfoInputs.cache
+C:\Projects\ToDoPlanning\ToDoPlanning.DataAccess\obj\Debug\net6.0\ToDoPlanning.DataAccess.AssemblyInfo.cs
+C:\Projects\ToDoPlanning\ToDoPlanning.DataAccess\obj\Debug\net6.0\ToDoPlanning.DataAccess.csproj.CoreCompileInputs.cache
+C:\Projects\ToDoPlanning\ToDoPlanning.DataAccess\obj\Debug\net6.0\ToDoPlanning.DataAccess.csproj.CopyComplete
+C:\Projects\ToDoPlanning\ToDoPlanning.DataAccess\obj\Debug\net6.0\ToDoPlanning.DataAccess.dll
+C:\Projects\ToDoPlanning\ToDoPlanning.DataAccess\obj\Debug\net6.0\refint\ToDoPlanning.DataAccess.dll
+C:\Projects\ToDoPlanning\ToDoPlanning.DataAccess\obj\Debug\net6.0\ToDoPlanning.DataAccess.pdb
+C:\Projects\ToDoPlanning\ToDoPlanning.DataAccess\obj\Debug\net6.0\ref\ToDoPlanning.DataAccess.dll
+C:\Projects\ToDoPlanning\ToDoPlanning.DataAccess\bin\Debug\net6.0\ToDoPlanning.DataAccess.runtimeconfig.json
+C:\Projects\ToDoPlanning\ToDoPlanning.DataAccess\obj\Debug\net6.0\ToDoPlanning.DataAccess.genruntimeconfig.cache
